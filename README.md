@@ -15,6 +15,7 @@ Compacted syntax
 
 Declarations: 
 
+````
 mm ---> margin in medium device
 ms ----> margin in small device
 pm ----> padding in medium device
@@ -24,6 +25,7 @@ mm-t-<value> -----> margin-top: <value>; for medium screen
 mm-t-<value> -----> margin-top: <value>; for medium screen
   
 ps-r-<value>.  ------> padding-right: <value> for small screens
+````
 
 Examples. 
 
