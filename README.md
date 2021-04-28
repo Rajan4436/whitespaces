@@ -1,5 +1,6 @@
-# whitespaces
-auto generated margin and padding responsive classes for quick application in any project. 
+# Whitespaces.scss
+
+Whitespaces.scss is an scss file with auto generated margin and padding responsive classes for quick application in any project. 
 
 
 Usage: 
